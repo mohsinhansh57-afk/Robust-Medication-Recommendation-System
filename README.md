@@ -31,9 +31,7 @@ to model relationships between patients, diseases, and medications.
 
 ## Dataset
 
-Dataset is available at:
-
-https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvYy8zZjZjZWE5NjRhZjFkNzUwL0lRQ1p4bEdoZkhUVFFKWExLZ2VFTkZmN0FUVThUTUQwTmNMOFlVc0lNX1ZWNkZBP2U9WG9NSFBT&cid=3F6CEA964AF1D750&id=3F6CEA964AF1D750%21sa151c699747c40d395cb2a07843457fb&parId=3F6CEA964AF1D750%21sea8cc6beffdb43d7976fbc7da445c639&o=OneUp
+Dataset is available at:[Download Dataset](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvYy8zZjZjZWE5NjRhZjFkNzUwL0lRQ1p4bEdoZkhUVFFKWExLZ2VFTkZmN0FUVThUTUQwTmNMOFlVc0lNX1ZWNkZBP2U9WG9NSFBT&cid=3F6CEA964AF1D750&id=3F6CEA964AF1D750%21sa151c699747c40d395cb2a07843457fb&parId=3F6CEA964AF1D750%21sea8cc6beffdb43d7976fbc7da445c639&o=OneUp)
 
 After downloading, place the files inside:
 
